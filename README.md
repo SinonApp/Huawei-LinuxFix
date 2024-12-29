@@ -27,6 +27,9 @@ To install the script, follow these steps:
 
 After installation, the script will automatically detect and fix the necessary drivers for your Huawei laptop. Simply run the script whenever you encounter driver issues.
 
+## Supported Devices
+- HUAWEI BoDE-WXX9/BoDE-WXX9-PCB-B4
+
 ## Supported OS
 - Kali Linux
 
