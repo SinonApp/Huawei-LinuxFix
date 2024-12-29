@@ -8,7 +8,7 @@ To install the script, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Huawei-LinuxFix.git
+    git clone https://github.com/SinonApp/Huawei-LinuxFix.git
     ```
 2. Navigate to the project directory:
     ```bash
