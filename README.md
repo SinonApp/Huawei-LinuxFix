@@ -33,6 +33,10 @@ After installation, the script will automatically detect and fix the necessary d
 ## Supported OS
 - Kali Linux
 
+## Scroll Fix in GNOME
+Quick fix to the bug where scrolling in one application is repeated in another when switching between them using Alt+Tab
+https://extensions.gnome.org/extension/5282/alttab-scroll-workaround/
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
